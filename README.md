@@ -1,0 +1,1 @@
+This is the SDSSRM (SDSS Runs Mapper) Python Module, by Eli Lingat. Inside is the module itself and a simple .ipynb notebook that shows off the module's main function of mapping out the amount of observing runs done in a region observed by SDSS.
